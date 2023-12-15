@@ -1,4 +1,5 @@
-HERE IN THE FOLLOWING CODE
-df = pd.read_csv('C:/Users/tanay/Downloads/archive/Iris.csv', names=columns)
-YOU HAVE TO GIVE LOCATION OF DATA SET IN YOUR SYSTEM.
-df = pd.read_csv('Dataset/Iris.csv', names=columns)#Iris.csv is the dataset
+Task 1:- Iris Flower classification
+Task 2:- Unemployment rate prediction
+Task 3:- car price prediction
+
+All the following task are give with source file and dataset
